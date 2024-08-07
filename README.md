@@ -25,3 +25,20 @@ You can use the `-h` flag on any command to pull up a help menu with documentati
 ```sh
 ore -h
 ```
+
+
+## ADDED
+```sh
+sudo apt update
+```
+```sh
+sudo apt install libssl-dev
+```
+
+```sh
+sudo apt install pkg-config
+```
+
+```
+cargo build --release --features gpu
+```
