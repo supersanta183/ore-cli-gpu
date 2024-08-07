@@ -1,8 +1,8 @@
 #ifndef DRILLX_H
 #define DRILLX_H
 
-#include "equix.h"
-#include "hashx.h"
+#include "equix/include/equix.h"
+#include "hashx/include/hashx.h"
 #include "equix/src/context.h"
 #include "equix/src/solver_heap.h"
 #include "hashx/src/context.h"
